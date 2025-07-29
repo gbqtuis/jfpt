@@ -1,4 +1,4 @@
-# Prof. Jhon Fredy Pérez Torres
+# Prof. Dr. Jhon Fredy Pérez Torres
 Universidad Industrial de Santander \
 Escuela de Químicaa \
 Phone: +57 634400 ext 1049 \
