@@ -1,5 +1,5 @@
 # Prof. Jhon Fredy Pérez Torres
-jfperezt (at) uis.edu.co \
+jfperezt (at) uis.edu.co 
 ## Lectures
 ### Inorganic Chemistry II (UIS)
 [Syllabus](gbqtuis.github.io/syllabus-InorgChemII-24732.pdf)
