@@ -2,7 +2,8 @@
 Universidad Industrial de Santander \
 Escuela de Química \
 Phone: +57 (607) 634 400 ext. 1049 \
-email: jfperezt (at) uis.edu.co 
+email: jfperezt (at) uis.edu.co \
+[gbqtuis](https://gbqtuis.github.io)
 
 ## Teaching
 ### [Inorganic Chemistry II 40546](ic.md)
