@@ -5,12 +5,13 @@ Phone: +57 (607) 634 400 ext. 1049 \
 email: jfperezt (at) uis.edu.co 
 
 ## Teaching
-### Inorganic Chemistry II 40546
-[Syllabus](gbqtuis.github.io/syllabus-InorgChemII-24732.pdf)
-### Molecular Quantum Dynamics
-### Advanced Quantum Chemistry
-### Advanced Inorganic Chemistry
-### Statistical Thermodynamics
+### [Inorganic Chemistry II 40546](ic.md)
+### [Molecular Quantum Dynamics 40561](mqd.md)
+### [Programming for Chemists](pfc.md)
+### [Computaional Inorganic Chemistry](cic.md)
+### [Advanced Quantum Chemistry](aqc.md)
+### [Advanced Inorganic Chemistry](aic.md)
+### [Statistical Thermodynamics](st.md)
 
 ## Publications
 
