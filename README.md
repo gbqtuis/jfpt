@@ -10,7 +10,7 @@ email: jfperezt (at) uis.edu.co
 ### Molecular Quantum Dynamics
 ### Advanced Quantum Chemistry
 ### Advanced Inorganic Chemistry
-### Stattistical Thermodynamics
+### Statistical Thermodynamics
 
 ## Publications
 - Relativistic Effects in Ligand Field Theory (II): Optical and Magnetic Properties of d<sup>1</sup> Atoms in Cubic and Tetragonal Symmetries.\
