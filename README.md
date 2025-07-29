@@ -13,7 +13,7 @@ email: jfperezt (at) uis.edu.co
   [Inorg. Chem. 63, 15016 (2024)](https://doi.org/10.1021/acs.inorgchem.4c01771)
 - Derivation of Dq/B and C/B from Electronic Spectra of Transition Metal Ions in Cubic Fields Using Auxiliary Tanabe–Sugano Diagrams\
   [J. Chem. Educ. 100, 251 (2023)](https://doi.org/10.1021/acs.jchemed.2c00885)
-- Photoionization of Oriented HD(<sup>2</sup>>Σ<sup>+</sup>) Yields Vibrating HD<sup>+</sup>(<sup>2</sup>Σ<sup>+</sup>) with Charge Breathing and Small Charge Transfer\
+- Photoionization of Oriented HD(<sup>2</sup>Σ<sup>+</sup>) Yields Vibrating HD<sup>+</sup>(<sup>2</sup>Σ<sup>+</sup>) with Charge Breathing and Small Charge Transfer\
   [J. Phys. Chem. A 126, 8918 (2022)](https://doi.org/10.1021/acs.jpca.2c05050)
 - Dilemma of the “Best Wavefunction”: Comparing Results of the STO-NG Procedure versus the Linear Variational Method\
   [(J. Chem. Educ. 96, 704 (2019)](https://doi.org/10.1021/acs.jchemed.8b00959)
