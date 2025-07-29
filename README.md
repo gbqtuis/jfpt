@@ -1,7 +1,7 @@
 # Prof. Dr. Jhon Fredy Pérez Torres
 Universidad Industrial de Santander \
 Escuela de Química \
-Phone: (+57) 634 400 ext. 1049 \
+Phone: +57 (607) 634 400 ext. 1049 \
 email: jfperezt (at) uis.edu.co 
 ## Lectures
 ### Inorganic Chemistry II 40546
