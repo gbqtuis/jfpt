@@ -1,9 +1,7 @@
 # Prof. Dr. Jhon Fredy Pérez Torres 
 <!--- <p float="center"><img src="/files/jfpt-on-board.jpg" width="100" /></p> --->
-Universidad Industrial de Santander \
-Escuela de Química \
-Address: Carrera 27, calle 9, Bucaramanga 680002 \
-         Ed. Camilo Torres, office 211 \
+Address: Universidad Industrial de Santander (Carrera 27, Calle 9, Bucaramanga 680002,
+Colombia), Escuela de Química, Ed. Camilo Torres, Office 211 \
 Phone: +57 (607) 634 400 ext. 1049 \
 Email: jfperezt (at) uis.edu.co \
 [gbqtuis](https://gbqtuis.github.io)
