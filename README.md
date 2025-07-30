@@ -1,22 +1,6 @@
 # Prof. Dr. Jhon Fredy Pérez Torres 
-
-.imageflex { display: flex; }
-.imageflexcontent { margin-left: 5px; margin-top: 0; }
-
-<div class="imageflex">
-  <img src="/files/jfpt-on-board.jpg" width="20">
-
-  <p class="imageflexcontent">
-    Universidad Industrial de Santander <br>
-    Escuela de Química <br>
-    Phone: +57 (607) 634 400 ext. 1049 <br>
-    email: jfperezt (at) uis.edu.co <br>
-    [gbqtuis](https://gbqtuis.github.io)
-  </p>
-</div>
-  
-
-Universidad Industrial de Santander 
+<!--- <p float="center"><img src="/files/jfpt-on-board.jpg" width="100" /></p> --->
+Universidad Industrial de Santander \
 Escuela de Química \
 Phone: +57 (607) 634 400 ext. 1049 \
 email: jfperezt (at) uis.edu.co \
@@ -30,8 +14,6 @@ email: jfperezt (at) uis.edu.co \
 #### [Advanced Quantum Chemistry 25006](aqc.md)
 #### [Advanced Inorganic Chemistry 25021](aic.md)
 #### [Statistical Thermodynamics 25026](st.md)
-
-<p float="center"><img src="/files/jfpt-on-board.jpg" width="100" /></p>
 
 ## Publications
 
