@@ -3,10 +3,10 @@
   <body>
     <div class="container">
       <div class="text">
-        <h1>Universidad Industrial de Santander</h1>
-        <h1>Escuela de Química</h1>
-        <h1>Phone: +57 (607) 634 400 ext. 1049</h1>
-        <h1>email: jfperezt (at) uis.edu.co</h1>
+        Universidad Industrial de Santander \
+        Escuela de Química \
+        Phone: +57 (607) 634 400 ext. 1049 \
+        email: jfperezt (at) uis.edu.co \
       </div>
       <div class="image">
         <img src="/filesjfpt-on-board.jpg">
@@ -26,7 +26,7 @@ img {
 }
 
 .text {
-  font-size: 70px;
+  font-size: 20px;
 }
 
 Universidad Industrial de Santander 
