@@ -1,25 +1,12 @@
-# Prof. Dr. Jhon Fredy Pérez Torres <p float="center"><img src="/files/jfpt-on-board.jpg" width="100" /></p>
+# Prof. Dr. Jhon Fredy Pérez Torres 
 
 <html>
-  <head>
-    <title>Pretty Paris</title>
-  </head>
   <style>
-  .container {
-  display: flex;
-  align-items: center;
-  justify-content: center
-}
+  .container {display: flex; align-items: center; justify-content: center}
 
-img {
-  max-width: 100%;
-  max-height:100%;
-}
+img {max-width: 100%; max-height:100%;}
 
-.text {
-  font-size: 20px;
-  padding-left: 20px;
-}
+.text {font-size: 20px; padding-left: 20px;}
   </style>
   <body>
     <div class="container">
@@ -27,7 +14,11 @@ img {
         <img src="/files/jfpt-on-board.jpg">
       </div>
       <div class="text">
-        <h1>Paris is one of the most magnificient cities in France.</h1>
+        Universidad Industrial de Santander <br>
+        Escuela de Química <br>
+        Phone: +57 (607) 634 400 ext. 1049 <br>
+        email: jfperezt (at) uis.edu.co <br>
+        [gbqtuis](https://gbqtuis.github.io)
       </div>
     </div>
   </body>
@@ -48,8 +39,9 @@ email: jfperezt (at) uis.edu.co \
 #### [Advanced Inorganic Chemistry 25021](aic.md)
 #### [Statistical Thermodynamics 25026](st.md)
 
-## Publications
+<p float="center"><img src="/files/jfpt-on-board.jpg" width="100" /></p>
 
+## Publications
 
 - Application of Laskin fractional Quantum mechanics with a changed fractional differential operator to one-dimensional potentials.\
   [Rev. Mex. Fís. 71, 020703-1 (2025)](https://doi.org/10.31349/RevMexFis.71.020703)
