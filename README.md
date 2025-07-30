@@ -1,28 +1,20 @@
 # Prof. Dr. Jhon Fredy Pérez Torres 
 
-<html>
-  <style>
-  .container {display: flex; align-items: center; justify-content: center}
+.imageflex { display: flex; }
+.imageflexcontent { margin-left: 5px; margin-top: 0; }
 
-img {max-width: 50%; max-height:50%;}
+<div class="imageflex">
+  <img src="/files/jfpt-on-board.jpg" width="20">
 
-.text {font-size: 20px; padding-left: 20px;}
-  </style>
-  <body>
-    <div class="container">
-      <div class="image">
-        <img src="/files/jfpt-on-board.jpg">
-      </div>
-      <div class="text">
-        Universidad Industrial de Santander <br>
-        Escuela de Química <br>
-        Phone: +57 (607) 634 400 ext. 1049 <br>
-        email: jfperezt (at) uis.edu.co <br>
-        [gbqtuis](https://gbqtuis.github.io)
-      </div>
-    </div>
-  </body>
-</html>
+  <p class="imageflexcontent">
+    Universidad Industrial de Santander <br>
+    Escuela de Química <br>
+    Phone: +57 (607) 634 400 ext. 1049 <br>
+    email: jfperezt (at) uis.edu.co <br>
+    [gbqtuis](https://gbqtuis.github.io)
+  </p>
+</div>
+  
 
 Universidad Industrial de Santander 
 Escuela de Química \
