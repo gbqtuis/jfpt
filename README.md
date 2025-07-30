@@ -1,4 +1,4 @@
-# Prof. Dr. Jhon Fredy Pérez Torres <p float="right"><img src="/files/jfpt-on-board.jpg" width="100" /></p>
+# Prof. Dr. Jhon Fredy Pérez Torres <p float="center"><img src="/files/jfpt-on-board.jpg" width="100" /></p>
 Universidad Industrial de Santander 
 Escuela de Química \
 Phone: +57 (607) 634 400 ext. 1049 \
