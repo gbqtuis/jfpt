@@ -3,10 +3,10 @@
   <body>
     <div class="container">
       <div class="text">
-        Universidad Industrial de Santander \
-        Escuela de Química \
-        Phone: +57 (607) 634 400 ext. 1049 \
-        email: jfperezt (at) uis.edu.co \
+        Universidad Industrial de Santander<br>
+        Escuela de Química <br>
+        Phone: +57 (607) 634 400 ext. 1049 <br>
+        email: jfperezt (at) uis.edu.co <br>
       </div>
       <div class="image">
         <img src="/filesjfpt-on-board.jpg">
