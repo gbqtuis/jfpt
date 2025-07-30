@@ -1,4 +1,34 @@
 # Prof. Dr. Jhon Fredy Pérez Torres <p float="center"><img src="/files/jfpt-on-board.jpg" width="100" /></p>
+
+  <body>
+    <div class="container">
+      <div class="text">
+        <h1>Universidad Industrial de Santander</h1>
+        <h1>Escuela de Química</h1>
+        <h1>Phone: +57 (607) 634 400 ext. 1049</h1>
+        <h1>email: jfperezt (at) uis.edu.co</h1>
+      </div>
+      <div class="image">
+        <img src="/filesjfpt-on-board.jpg">
+      </div>
+    </div>
+  </body>
+.container {
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 70px;
+}
+
 Universidad Industrial de Santander 
 Escuela de Química \
 Phone: +57 (607) 634 400 ext. 1049 \
