@@ -1,23 +1,14 @@
 # Prof. Dr. Jhon Fredy Pérez Torres <p float="center"><img src="/files/jfpt-on-board.jpg" width="100" /></p>
 
-  <body>
-    <div class="container">
-      <div class="text">
-        Universidad Industrial de Santander<br>
-        Escuela de Química <br>
-        Phone: +57 (607) 634 400 ext. 1049 <br>
-        email: jfperezt (at) uis.edu.co <br>
-      </div>
-      <div class="image">
-        <img src="/filesjfpt-on-board.jpg">
-      </div>
-    </div>
-  </body>
-.container {
- display: grid;
- align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 5px;
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
 }
 
 img {
@@ -27,7 +18,20 @@ img {
 
 .text {
   font-size: 20px;
+  padding-left: 20px;
 }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="/files/jfpt-on-board.jpg">
+      </div>
+      <div class="text">
+        <h1>Paris is one of the most magnificient cities in France.</h1>
+      </div>
+    </div>
+  </body>
+</html>
 
 Universidad Industrial de Santander 
 Escuela de Química \
