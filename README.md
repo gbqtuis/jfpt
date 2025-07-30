@@ -4,7 +4,7 @@
   <style>
   .container {display: flex; align-items: center; justify-content: center}
 
-img {max-width: 100%; max-height:100%;}
+img {max-width: 50%; max-height:50%;}
 
 .text {font-size: 20px; padding-left: 20px;}
   </style>
