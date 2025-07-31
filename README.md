@@ -7,13 +7,13 @@ Email: jfperezt (at) uis.edu.co \
 [gbqtuis](https://gbqtuis.github.io)
 
 ## Teaching
-#### [Inorganic Chemistry II 40546](ic.md)
-#### [Molecular Quantum Dynamics 40561](mqd.md)
-#### [Programming for Chemists 40577](pfc.md)
-#### [Computaional Inorganic Chemistry 40578](cic.md)
-#### [Advanced Quantum Chemistry 25006](aqc.md)
-#### [Advanced Inorganic Chemistry 25021](aic.md)
-#### [Statistical Thermodynamics 25026](st.md)
+#### [Inorganic Chemistry II](ic.md)
+#### [Molecular Quantum Dynamics](mqd.md)
+#### [Programming for Chemists](pfc.md)
+#### [Computaional Inorganic Chemistry](cic.md)
+#### [Advanced Quantum Chemistry](aqc.md)
+#### [Advanced Inorganic Chemistry](aic.md)
+#### [Statistical Thermodynamics](st.md)
 
 ## Publications
 
