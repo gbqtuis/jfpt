@@ -40,3 +40,14 @@ Email: jfperezt (at) uis.edu.co \
   [Phys. Rev. A 94, 053423 (2016)](https://doi.org/10.1103/PhysRevA.94.053423)
 - Multidirectional Angular Electronic Flux during Adiabatic Attosecond Charge Migration in Excited Benzene.\
   [J. Phys. Chem. A 120, 5360 (2016)](https://doi.org/10.1021/acs.jpca.6b01948)
+- Quantum Theory of concerted electronic and nuclear fluxes associated with adiabatic intramolecular processes.\
+  [Phys. Chem. Chem. Phys. 17, 29421 (2015)]()
+- Imaging the Ultrafast Photoelectron Transfer Process in Alizaring-TiO<sub>2</sub>.\
+  [Molecules 20, 13830 (2015)]()
+- Fourier analysis of the nuclear flux density in diatomic molecules: A complementary tool to map potential-energy curves and to
+  characterize vibrational wave functions.\
+  [Phys. Rev. A 91, 022510 (2015)]()
+- Dissociating H<sub>2</sub>(<sup>2</sup>Σ<sub>g</sub><sup>+</sup>JM=00) Ion as an Exploding Quantum Bubble.\
+  [J. Phys. Chem. A 119, 2895 (2015)]()
+- Selective Catalytic Activation of Acetylene by a Neutral Gold CLuster of Experimentally Know Gas-Phase Geometry.\
+  [J. Phys. Chem. C 119, 7755 (2015)]()
