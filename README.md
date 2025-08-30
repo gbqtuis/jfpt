@@ -79,5 +79,5 @@ Email: jfperezt (at) uis.edu.co \
   [Phys. Rev. A 81, 021401(R) (2010)](https://doi.org/10.1103/PhysRevA.81.021401)
 - Investigationg two-photon double ionization of D<sub>2</sub> by XUV-pupmp-XUV-probe experiments.\
   [Phys. Rev. A 81, 051402(R) (2010)](Investigationg two-photon double ionization of D<sub>2</sub> by XUV-pupmp-XUV-probe experiments.)
-- The role of autoionizing states in two-photon dissociative ionization of H<sub><\sub> by xuv ultrashort laser pulses.\
+- The role of autoionizing states in two-photon dissociative ionization of H<sub></sub> by xuv ultrashort laser pulses.\
   [J. Phys. B: At. Mol. Opt. Phys. (2010)](https://doi.org/10.1088/0953-4075/43/1/015204)
