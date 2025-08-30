@@ -36,7 +36,7 @@ Email: jfperezt (at) uis.edu.co \
 - Electronic-nuclear entanglement in H<sub>2</sub><sup>+</sup>: Schmidt decomposition of non-Born-Oppenheimer wave functions expanded in nonorthogonal basis sets.\
   [Phys. Rev. A 96, 022503 (2017)](https://doi.org/10.1103/PhysRevA.96.022503)
 - Time-dependent description of the predissociation of N<sub>2</sub><sup>+</sup> in the
-  C<sup>2</sup>Σ<sub>u</sub><sup>+</sup> state.\
+  𝐶<sup>2</sup>Σ<sub>u</sub><sup>+</sup> state.\
   [Phys. Rev. A 94, 053423 (2016)](https://doi.org/10.1103/PhysRevA.94.053423)
 - Multidirectional Angular Electronic Flux during Adiabatic Attosecond Charge Migration in Excited Benzene.\
   [J. Phys. Chem. A 120, 5360 (2016)](https://doi.org/10.1021/acs.jpca.6b01948)
