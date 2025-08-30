@@ -63,3 +63,21 @@ Email: jfperezt (at) uis.edu.co \
   [J. Phys. Chem. A 117, 8519 (2013)](https://doi.org/10.1021/jp4002302)
 - Electronic flux densities in vibrating H<sub>2></sub><sup>+</sup> in terms of vibronic states.\
   [Phys. Rev. A 87, 062512 (2013)](https://doi.org/10.1103/PhysRevA.87.062512)
+- Attosecond Time-Resolved Electron Dynamics in the Hydrogen Molecule,\
+  [IEEE Journal of Selected Topics in Quantum Electronics 18, 1 (2012)](https://doi.org/10.1109/JSTQE.2011.2155624)
+- Attosecond Control in Photoionization of Hydrogen Molecules.\
+  [Phys. Rev. Lett. 107, 043002 (2011)](https://doi.org/10.1103/PhysRevLett.107.043002)
+- Probing vibrational wave packets in molecular excited states,\
+  [Theor. Chem. Acc. 128, 735 (2011)](https://doi.org/10.1007/s00214-010-0853-0)
+- Molecular Frame Photoelectron Angular Distributions for H<sub>2<\sub> by Single and Trains of Attosecond XUV Laser Pulses.\
+  [Int. J. Quant. Chem. 110, 2463 (2010)](https://doi.org/10.1002/qua.22586)
+- Electron localization following attosecond molecular photoionization.\
+  [Nature 465, 763 (2010)](https://doi.org/10.1038/nature09084)
+- Circular Dichroism in Photoionization of H<sub>2<\sub>.\
+  [Phys. Rev. Lett. 104, 233003 (2010)](https://doi.org/10.1103/PhysRevLett.104.233003)
+- Tracing direct and sequential two-photon double ionization of D<sub>2<\sub> in femtosecond extreme-ultraviolet laser pulses.\
+  [Phys. Rev. A 81, 021401(R) (2010)](https://doi.org/10.1103/PhysRevA.81.021401)
+- Investigationg two-photon double ionization of D<sub>2<\sub> by XUV-pupmp-XUV-probe experiments.\
+  [Phys. Rev. A 81, 051402(R) (2010)](Investigationg two-photon double ionization of D<sub>2<\sub> by XUV-pupmp-XUV-probe experiments.)
+- The role of autoionizing states in two-photon dissociative ionization of H<sub><\sub> by xuv ultrashort laser pulses.\
+  [J. Phys. B: At. Mol. Opt. Phys. (2010)](https://doi.org/10.1088/0953-4075/43/1/015204)
