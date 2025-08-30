@@ -55,7 +55,7 @@ Email: jfperezt (at) uis.edu.co \
   [Phys. Rev. A 90, 043417 (2014)](https://doi.org/10.1103/PhysRevA.90.043417)
 - Vibrating <sub>2</sub>(<sup>2</sup>Σ<sub>g</sub><sup>+</sup>JM=00) Ion as a Pulsating Quantum Bubble in the Laboratory Frame.\
   [J. Phys. Chem. A 118, 8411 (2014)](https://doi.org/10.1021/jp5017246)
-- Electronic and nuclear flux densities in the H<sub>2</sub> molecules.\
+- Electronic and nuclear flux densities in the H<sub>2</sub> molecule.\
   [Phys. Rev. A 052504 (2014)](https://doi.org/10.1103/PhysRevA.89.052504)
 - Nuclear Fluxes in Diatomic Molecules Deduced from Pump-Probe Spectra with Spatiotemporal Resolutions down to 5 pm and 200 asec.\
   [Phys. Rev. Let. 111, 153004 (2013)](https://doi.org/10.1103/PhysRevLett.111.153004)
