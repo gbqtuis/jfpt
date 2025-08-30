@@ -57,3 +57,9 @@ Email: jfperezt (at) uis.edu.co \
   [J. Phys. Chem. A 118, 8411 (2014)](https://doi.org/10.1021/jp5017246)
 - Electronic and nuclear flux densities in the H<sub>2</sub> molecules.\
   [Phys. Rev. A 052504 (2014)](https://doi.org/10.1103/PhysRevA.89.052504)
+- Nuclear Fluxes in Diatomic Molecules Deduced from Pump-Probe Spectra with Spatiotemporal Resolutions down to 5 pm and 200 asec.\
+  [Phys. Rev. Let. 111, 153004 (2013)](https://doi.org/10.1103/PhysRevLett.111.153004)
+- Computation of the Electronic Flux Density in the Born-Oppenheimer Approximation.\
+  [J. Phys. Chem. A 117, 8519 (2013)](https://doi.org/10.1021/jp4002302)
+- Electronic flux densities in vibrating H<sub>2></sub><sup>+</sup> in terms of vibronic states.\
+  [Phys. Rev. A 87, 062512 (2013)](https://doi.org/10.1103/PhysRevA.87.062512)
