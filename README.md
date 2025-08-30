@@ -51,3 +51,9 @@ Email: jfperezt (at) uis.edu.co \
   [J. Phys. Chem. A 119, 2895 (2015)](https://doi.org/10.1021/acs.jpca.5b00907)
 - Selective Catalytic Activation of Acetylene by a Neutral Gold CLuster of Experimentally Know Gas-Phase Geometry.\
   [J. Phys. Chem. C 119, 7755 (2015)](https://doi.org/10.1021/jp512989q)
+- Circular dichroism in molecular-frame photoelectron angular distributions in the dissociative photoionization of H<sub>2</sub> and D<sub>2</sub> molecules.\
+  [Phys. Rev. A 90, 043417 (2014)](https://doi.org/10.1103/PhysRevA.90.043417)
+- Vibrating <sub>2</sub>(<sup>2</sup>Σ<sub>g</sub><sup>+</sup>JM=00) Ion as a Pulsating Quantum Bubble in the Laboratory Frame.\
+  [J. Phys. Chem. A 118, 8411 (2014)](https://doi.org/10.1021/jp5017246)
+- Electronic and nuclear flux densities in the H<sub>2</sub> molecules.\
+  [Phys. Rev. A 052504 (2014)](https://doi.org/10.1103/PhysRevA.89.052504)
