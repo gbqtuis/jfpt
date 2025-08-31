@@ -81,3 +81,13 @@ Email: jfperezt (at) uis.edu.co \
   [Phys. Rev. A 81, 051402(R) (2010)](Investigationg two-photon double ionization of D<sub>2</sub> by XUV-pupmp-XUV-probe experiments.)
 - The role of autoionizing states in two-photon dissociative ionization of H<sub></sub> by xuv ultrashort laser pulses.\
   [J. Phys. B: At. Mol. Opt. Phys. (2010)](https://doi.org/10.1088/0953-4075/43/1/015204)
+- Probing H<sub>2</sub> autoionizing states with femto- and atto-second laser pulses.\
+  [J. of Phys.: Conference Series 194, 012013 (2009)](https://doi.org/10.1088/1742-6596/194/012013)
+- Probing H<sub>2</sub> quantum autoionization dynamics with xuv atto and femtosecond laser pulses.\
+  [Chem. Phys. 366, 58 (2009)](https://doi.org/10.1016/j.chemphys.2009.09.008)
+- Asymmetric electron angular distributions in resonant dissociative photoionization of H<sub>2</sub> with ultrashort xuv pulses.\
+  [Phys. Rev. A 80, 01142(R) (2009)](https://doi.org/10.1103/PhysRevA.80.011402)
+- Stochastic Search of the Quantum Conformational Space of Lithium and Bimetallic Lithium-Sodium Clusters.\
+  [J. Phys. Chem. A 112, 5749 (2008)](https://doi.org/10.1021/jp802176w)
+- Structural Studies of the Water Tetramer.\
+  [Int. J. Quant. Chem. 108, 1653 (2008)](https://doi.org/10.1002/qua.21615)
