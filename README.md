@@ -61,7 +61,7 @@ Email: jfperezt (at) uis.edu.co \
   [Phys. Rev. Let. 111, 153004 (2013)](https://doi.org/10.1103/PhysRevLett.111.153004)
 - Computation of the Electronic Flux Density in the Born-Oppenheimer Approximation.\
   [J. Phys. Chem. A 117, 8519 (2013)](https://doi.org/10.1021/jp4002302)
-- Electronic flux densities in vibrating H<sub>2></sub><sup>+</sup> in terms of vibronic states.\
+- Electronic flux densities in vibrating H<sub>2</sub><sup>+</sup> in terms of vibronic states.\
   [Phys. Rev. A 87, 062512 (2013)](https://doi.org/10.1103/PhysRevA.87.062512)
 - Attosecond Time-Resolved Electron Dynamics in the Hydrogen Molecule.\
   [IEEE Journal of Selected Topics in Quantum Electronics 18, 1 (2012)](https://doi.org/10.1109/JSTQE.2011.2155624)
