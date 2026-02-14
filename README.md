@@ -8,9 +8,8 @@ Email: jfperezt (at) uis.edu.co \
 
 ## Teaching
 - [Inorganic Chemistry II](ic.md)
-- [Programming for Chemists](pfc.md)
-- [Computaional Inorganic Chemistry](cic.md)
 - [Molecular Quantum Dynamics](mqd.md)
+- [Programming for Chemists](pfc.md)
 - [Advanced Inorganic Chemistry](aic.md)
 
 ## Publications
