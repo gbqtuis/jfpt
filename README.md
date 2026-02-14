@@ -11,9 +11,7 @@ Email: jfperezt (at) uis.edu.co \
 - [Programming for Chemists](pfc.md)
 - [Computaional Inorganic Chemistry](cic.md)
 - [Molecular Quantum Dynamics](mqd.md)
-- [Advanced Quantum Chemistry](aqc.md)
 - [Advanced Inorganic Chemistry](aic.md)
-- [Statistical Thermodynamics](st.md)
 
 ## Publications
 
