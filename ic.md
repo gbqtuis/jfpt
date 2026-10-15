@@ -2,3 +2,4 @@
   - [Syllabus](/files/syllabus-InorgChemII-40546.pdf)
   - [Notes](/files/mainIC-II.pdf)
   - [Character Tables](http://symmetry.jacobs-university.de/)
+  - [Tanabe-Sugano Diagrams](/files/a0poster-TSdiagrams.pdf)
