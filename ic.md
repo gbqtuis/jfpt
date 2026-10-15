@@ -3,3 +3,4 @@
   - [Notes](/files/mainIC-II.pdf)
   - [Character Tables](http://symmetry.jacobs-university.de/)
   - [Tanabe-Sugano Diagrams](/files/a0poster-TSdiagrams.pdf)
+  - [Auxiliary Tanabe-Sugano Diagrams](/files/a0poster-auxTSdiagrams.pdf)
