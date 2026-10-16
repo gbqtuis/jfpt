@@ -13,7 +13,8 @@ Email: jfperezt (at) uis.edu.co \
 - [Advanced Inorganic Chemistry](aic.md)
 
 ## Publications
-
+- On The van Vleck Paramagnetic Susceptibility of nd<sup>1</sup>(O<sub>h<\sub>) Transition Metal Ions.\
+  [J. Phys. Chem. A 130, 4563 (2026)]( https://doi.org/10.1021/acs.jpca.6c01740)
 - Application of Laskin fractional Quantum mechanics with a changed fractional differential operator to one-dimensional potentials.\
   [Rev. Mex. Fís. 71, 020703-1 (2025)](https://doi.org/10.31349/RevMexFis.71.020703)
 - Relativistic Effects in Ligand Field Theory (II): Optical and Magnetic Properties of d<sup>1</sup> Atoms in Cubic and Tetragonal Symmetries.\
